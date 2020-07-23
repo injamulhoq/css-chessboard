@@ -26,7 +26,7 @@ tr:nth-child(even) td.chessboard:nth-child(odd) {
 
 tr:nth-child(odd) td.chessboard:hover:nth-child(even),
 tr:nth-child(even) td.chessboard:hover:nth-child(odd){
-    background-color: #2F4F4F;
+    background-color: #FFA500;
 
 }
 
